@@ -1,3 +1,6 @@
+<a href="https://spec4.ai">
+  <img src="BWS4-white-100.png" alt="Built with Spec4" align="right" style="margin-left: 10px;" />
+</a>
 # MagicRules
 
 A rules-question assistant for Magic: The Gathering that grounds answers in the official Comprehensive Rules document. Players type natural-language rules questions and receive clear, accurate answers that cite and quote the exact rule(s) used, enabling verification and settling disputes with authoritative, citable evidence.
